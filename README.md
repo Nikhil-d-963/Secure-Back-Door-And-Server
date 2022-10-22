@@ -1,4 +1,4 @@
-# Secure-Back-Door-And-Server
+# Secure-Back-Door-And-Server.
 
 1) You have to change the IP adress in both python file(backdoor.py & server.py)
 2) Open terminal and install pyinstaller library by typing -> pip install pyinstaller
